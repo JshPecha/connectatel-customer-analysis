@@ -1,4 +1,4 @@
-# sprint7-final-project
+
 # ConnectaTel: análisis y segmentación de clientes de telecomunicaciones
 
 Análisis del comportamiento de 4,000 clientes de ConnectaTel, una empresa de telecomunicaciones en Latinoamérica, para identificar patrones de uso, segmentar a los clientes y proponer estrategias de retención y mejoras en los planes.
