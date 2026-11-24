@@ -35,9 +35,7 @@ ConnectaTel quiere entender cómo usan sus servicios los clientes para diseñar 
 - **Uso promedio por cliente:** 5.5 mensajes, 4.5 llamadas y 23.3 minutos de llamada (mediana de 19.8 minutos).
 - **Outliers:** hay valores atípicos en mensajes (límite IQR de 11.5; máximo de 17), llamadas (10.5; máximo de 15) y minutos (61.9; máximo de 155.7). La edad no tiene outliers. Se mantuvieron porque representan clientes de uso alto real, no errores de datos.
 - **Distribución:** mensajes, llamadas y minutos tienen sesgo a la derecha (la media supera a la mediana).
-- **Segmentos por uso:** [Bajo uso: X% · Uso medio: X% · Alto uso: X%]
-- **Segmentos por edad:** [Joven: X% · Adulto: X% · Adulto Mayor: X%]
-- **Comparación por plan:** [promedio de mensajes, llamadas y minutos de Básico frente a Premium]
+
 
 ## Conclusiones y recomendaciones
 - **Retención:** diseñar campañas dirigidas a los clientes de alto uso, que son los más activos.
